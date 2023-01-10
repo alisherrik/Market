@@ -1,0 +1,12 @@
+C:\Users\Alisherrik\Documents\Market\Client\bin\Debug\Client.exe.config
+C:\Users\Alisherrik\Documents\Market\Client\bin\Debug\Client.exe
+C:\Users\Alisherrik\Documents\Market\Client\bin\Debug\Client.pdb
+C:\Users\Alisherrik\Documents\Market\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.Form1.resources
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.exe
+C:\Users\Alisherrik\Documents\Market\Client\obj\Debug\Client.pdb
